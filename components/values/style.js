@@ -1,0 +1,1 @@
+export const flextCenter={justifyContent:'center',alignItems:'center'}
